@@ -1,9 +1,22 @@
 import Image from 'next/image'
+import {currentUser} from "@clerk/nextjs";
 
-export default function Home() {
+export default async function Home() {
+  const user = await currentUser();
+  let fullname = "Guest";
+
+  if (user) {
+    const {firstName, lastName} = user;
+    fullname = (firstName ? `${firstName} `: "") + (lastName ? lastName : "");
+    if (!fullname) fullname = "User"
+  }
+
   return (
-    <div className='text-3xl'>
-      hello world
-    </div>
+    <main className="max-w-6xl mx-auto pt-8">
+      <h1 className="inline-flex gap-1 text-lg">
+        Welcome back,
+        <span className="font-semibold">{fullname}</span>
+      </h1>
+    </main>
   )
 }
