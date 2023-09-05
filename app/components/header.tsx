@@ -7,7 +7,7 @@ export default async function Header() {
   const isLoggedIn = !!user;
 
   return (
-    <div>
+    <div  className='mx-20'>
       <Nav isLoggedIn={isLoggedIn}/>
     </div>
   )

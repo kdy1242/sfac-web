@@ -1,0 +1,67 @@
+<svg width="196" height="166" viewBox="0 0 196 166" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="98" cy="83" r="83" fill="#E2EDDD"/>
+<circle cx="98" cy="93" r="46" stroke="#1BC86B" stroke-width="3" stroke-linecap="round" stroke-dasharray="6 6"/>
+<circle cx="13.359" cy="132.671" r="13.359" fill="#FF9C27"/>
+<circle cx="70.7066" cy="132.671" r="13.359" fill="#FF9C27"/>
+<ellipse cx="41.7065" cy="127.131" rx="33.8862" ry="31.2796" fill="#FFBA68"/>
+<mask id="mask0_1_66" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="7" y="95" width="69" height="64">
+<ellipse cx="41.7104" cy="127.135" rx="33.8862" ry="31.2796" fill="#FFAB49"/>
+</mask>
+<g mask="url(#mask0_1_66)">
+<circle cx="18.9003" cy="140.17" r="13.0331" fill="#FF9A24"/>
+<circle cx="65.8183" cy="140.17" r="13.0331" fill="#FF9A24"/>
+</g>
+<circle cx="30.6301" cy="129.739" r="2.60663" fill="black"/>
+<circle cx="52.7824" cy="129.739" r="2.60663" fill="black"/>
+<circle cx="42.3605" cy="140.818" r="2.60663" fill="#E16037"/>
+<circle cx="42.0322" cy="134.626" r="0.977486" fill="black"/>
+<path d="M31.0977 126.484C30.3968 126.86 29.0738 127.942 29.3886 129.258" stroke="black" stroke-width="1.95497" stroke-linecap="round"/>
+<path d="M33.0391 121.902C31.4948 121.489 28.0689 121.254 26.7189 123.616" stroke="#925319" stroke-width="1.95497" stroke-linecap="round"/>
+<path d="M50.8281 121.902C52.3724 121.489 55.7983 121.254 57.1483 123.616" stroke="#925319" stroke-width="1.95497" stroke-linecap="round"/>
+<path d="M53.2578 126.484C52.557 126.86 51.234 127.942 51.5488 129.258" stroke="black" stroke-width="1.95497" stroke-linecap="round"/>
+<rect x="33.2344" y="102.367" width="17.5948" height="17.5948" fill="#925319"/>
+<rect width="17.5186" height="17.8565" transform="matrix(0.997122 0.0758083 -0.187882 0.982192 15.7344 101.066)" fill="#925319"/>
+<rect width="17.5186" height="17.8565" transform="matrix(-0.997122 0.0758083 0.187882 0.982192 68.2969 101.066)" fill="#925319"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M72.9868 126.149C74.668 122.941 75.5966 119.419 75.5966 115.723C75.5966 100.788 60.4252 88.6797 41.7104 88.6797C22.9956 88.6797 7.82422 100.788 7.82422 115.723C7.82422 119.419 8.75284 122.941 10.434 126.149C15.548 116.389 27.6257 109.531 41.7104 109.531C55.7951 109.531 67.8728 116.389 72.9868 126.149Z" fill="#925319"/>
+<circle cx="41.7089" cy="88.0331" r="13.0331" fill="#925319"/>
+<circle cx="124.359" cy="131.984" r="13.359" fill="#FF9C27"/>
+<circle cx="181.707" cy="131.984" r="13.359" fill="#FF9C27"/>
+<ellipse cx="152.706" cy="126.444" rx="33.8862" ry="31.2796" fill="#FFBA68"/>
+<mask id="mask1_1_66" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="118" y="95" width="69" height="63">
+<ellipse cx="152.703" cy="126.444" rx="33.8862" ry="31.2796" fill="#FFAB49"/>
+</mask>
+<g mask="url(#mask1_1_66)">
+<circle cx="129.893" cy="139.478" r="13.0331" fill="#FF9A24"/>
+<circle cx="176.81" cy="139.478" r="13.0331" fill="#FF9A24"/>
+</g>
+<circle cx="141.63" cy="129.052" r="2.60663" fill="black"/>
+<circle cx="163.782" cy="129.052" r="2.60663" fill="black"/>
+<circle cx="153.032" cy="133.938" r="0.977486" fill="black"/>
+<path d="M142.098 125.797C141.397 126.173 140.074 127.254 140.389 128.571" stroke="black" stroke-width="1.95497" stroke-linecap="round"/>
+<path d="M144.039 121.215C142.495 120.802 139.069 120.566 137.719 122.929" stroke="#6B4D20" stroke-width="1.95497" stroke-linecap="round"/>
+<path d="M161.828 121.215C163.372 120.802 166.798 120.566 168.148 122.929" stroke="#6B4D20" stroke-width="1.95497" stroke-linecap="round"/>
+<path d="M164.258 125.797C163.557 126.173 162.234 127.254 162.549 128.571" stroke="black" stroke-width="1.95497" stroke-linecap="round"/>
+<rect width="8.80946" height="17.8565" transform="matrix(0.997122 0.0758083 -0.187882 0.982192 126.082 108.203)" fill="#6B4D20"/>
+<rect width="8.80946" height="17.8565" transform="matrix(-0.997122 0.0758083 0.187882 0.982192 179.082 108.203)" fill="#6B4D20"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M183.979 125.47C185.66 122.261 186.589 118.739 186.589 115.044C186.589 100.108 171.417 88 152.703 88C133.988 88 118.816 100.108 118.816 115.044C118.816 118.739 119.745 122.261 121.426 125.47C126.54 115.709 138.618 108.852 152.703 108.852C166.787 108.852 178.865 115.709 183.979 125.47Z" fill="#6B4D20"/>
+<path d="M160.527 136.87L153.033 139.477L145.539 136.87" stroke="#A75A00" stroke-width="1.95497" stroke-linecap="round"/>
+<circle cx="69.359" cy="57.5035" r="13.359" fill="#FF9C27"/>
+<circle cx="126.707" cy="57.5035" r="13.359" fill="#FF9C27"/>
+<ellipse cx="97.7065" cy="51.9671" rx="33.8862" ry="31.2796" fill="#FFBA68"/>
+<mask id="mask2_1_66" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="63" y="20" width="69" height="64">
+<ellipse cx="97.7065" cy="51.971" rx="33.8862" ry="31.2796" fill="#FFAB49"/>
+</mask>
+<g mask="url(#mask2_1_66)">
+<circle cx="74.8964" cy="65.0058" r="13.0331" fill="#FF9A24"/>
+<circle cx="121.814" cy="65.0058" r="13.0331" fill="#FF9A24"/>
+</g>
+<circle cx="86.6301" cy="54.5754" r="2.60663" fill="black"/>
+<circle cx="108.782" cy="54.5754" r="2.60663" fill="black"/>
+<circle cx="98.0322" cy="59.4619" r="0.977486" fill="black"/>
+<path d="M87.0977 51.3164C86.3968 51.6925 85.0738 52.7737 85.3886 54.0905" stroke="black" stroke-width="1.95497" stroke-linecap="round"/>
+<path d="M89.0391 46.7344C87.4948 46.3214 84.0689 46.0859 82.7189 48.4485" stroke="black" stroke-width="1.95497" stroke-linecap="round"/>
+<path d="M106.828 46.7344C108.372 46.3214 111.798 46.0859 113.148 48.4485" stroke="black" stroke-width="1.95497" stroke-linecap="round"/>
+<path d="M109.258 51.3164C108.557 51.6925 107.234 52.7737 107.549 54.0905" stroke="black" stroke-width="1.95497" stroke-linecap="round"/>
+<path d="M84.6758 62.3945C89.346 65.327 101.228 69.4324 111.394 62.3945" stroke="#A75A00" stroke-width="1.95497" stroke-linecap="round"/>
+<path d="M84.6841 17.2473C58.444 17.247 60.0818 38.1577 63.697 44.8862L81.0778 41.7025L84.6857 30.7155C87.0472 44.0417 84.6857 41.7025 131.591 44.8862C136.832 10.8671 96.1638 4.1453 84.6841 17.2473Z" fill="#222222"/>
+</svg>
