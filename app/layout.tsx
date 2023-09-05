@@ -3,6 +3,8 @@ import type { Metadata } from 'next'
 import { Inter } from 'next/font/google'
 import Footer from './components/footer'
 import {ClerkProvider, UserButton} from "@clerk/nextjs"
+import Header from './components/header'
+import 'sfac-designkit-react/style.css'
 
 const inter = Inter({ subsets: ['latin'] })
 
@@ -19,8 +21,8 @@ export default function RootLayout({
   return (
     <ClerkProvider>
       <html lang="en">
-        <body className={inter.className}>
-          <UserButton afterSignOutUrl="/"/>
+        <body>
+          <Header/>
           {children}
           <Footer/>
         </body>

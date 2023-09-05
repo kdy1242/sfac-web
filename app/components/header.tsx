@@ -1,8 +1,14 @@
 
-export default function Header() {
+import { currentUser } from "@clerk/nextjs";
+import Nav from "./nav";
+
+export default async function Header() {
+  const user = await currentUser();
+  const isLoggedIn = !!user;
+
   return (
     <div>
-      header
+      <Nav isLoggedIn={isLoggedIn}/>
     </div>
   )
 }
