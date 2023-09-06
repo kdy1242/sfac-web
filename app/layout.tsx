@@ -23,9 +23,11 @@ export default function RootLayout({
       <html lang="en">
         <body>
           <Header/>
+          <hr/>
           <div className='h-auto min-h-screen'>
             {children}
           </div>
+          <hr/>
           <Footer/>
         </body>
       </html>

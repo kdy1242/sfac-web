@@ -8,7 +8,7 @@ export default function CommunityTopBox() {
       <img src="/community-bg.svg" alt="Community" className="w-full h-auto" />
       <div className='max-w-6xl mx-auto'>
         <div className="absolute top-[76px]">
-          <Breadcrumb menu={["교육과정", "교육과정"]} />
+          <Breadcrumb menu={["커뮤니티", "커뮤니티 전체"]} />
           <p className='text-4xl font-bold leading-normal mt-5'>
             커뮤니티
           </p>
